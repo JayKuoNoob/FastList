@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FastList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FastList_jar</output-path>
+    <root id="archive" name="FastList.jar">
+      <element id="module-output" name="FastList" />
+    </root>
+  </artifact>
+</component>
